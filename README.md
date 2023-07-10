@@ -1,7 +1,5 @@
-Даны два числа n и m. Создайте двумерный массив А[n][m], заполните его таблицей умножения A[i][j]=i*j и выведите на экран. При этом нельзя использовать вложенные циклы, все заполнение массива должно производиться одним циклом.
+Two numbers n and m are given. Create a two-dimensional array A[n][m], fill it with the multiplication table A[i][j]=i*j, and display it on the screen. In this case, nested loops cannot be used; the entire array filling must be done in one loop.
 
-Входные данные
-Программа получает на вход два числа и и м - количество строк и столбцов, соответственно.
+Specifications Input The program receives as input two numbers and m - the number of rows and columns, respectively.
 
-Выходные данные
-Программа должна вывести полученный массив. Числа разделяйте одним пробелом.
+Output The program must display the resulting array—separate numbers with one space.
